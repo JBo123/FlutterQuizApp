@@ -1,8 +1,16 @@
 # This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/jakubklucky/.pub-cache/hosted/pub.dev/firebase_auth-4.4.0/
+firebase_auth_web=/Users/jakubklucky/.pub-cache/hosted/pub.dev/firebase_auth_web-5.3.0/
 firebase_core=/Users/jakubklucky/.pub-cache/hosted/pub.dev/firebase_core-2.9.0/
 firebase_core_web=/Users/jakubklucky/.pub-cache/hosted/pub.dev/firebase_core_web-2.3.0/
+google_sign_in=/Users/jakubklucky/.pub-cache/hosted/pub.dev/google_sign_in-6.0.2/
+google_sign_in_android=/Users/jakubklucky/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.8/
+google_sign_in_ios=/Users/jakubklucky/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.1/
+google_sign_in_web=/Users/jakubklucky/.pub-cache/hosted/pub.dev/google_sign_in_web-0.11.0+2/
 path_provider=/Users/jakubklucky/.pub-cache/hosted/pub.dev/path_provider-2.0.14/
 path_provider_android=/Users/jakubklucky/.pub-cache/hosted/pub.dev/path_provider_android-2.0.24/
 path_provider_foundation=/Users/jakubklucky/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.1/
 path_provider_linux=/Users/jakubklucky/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.10/
 path_provider_windows=/Users/jakubklucky/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.5/
+sign_in_with_apple=/Users/jakubklucky/.pub-cache/hosted/pub.dev/sign_in_with_apple-4.3.0/
+sign_in_with_apple_web=/Users/jakubklucky/.pub-cache/hosted/pub.dev/sign_in_with_apple_web-1.0.1/
