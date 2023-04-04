@@ -47,10 +47,14 @@
 		<key>Frameworks/App.framework/App</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		0/Hg8YqtDgSaCyuZZtL2PSjoVNY=
 =======
 		mMjQJFVN5CV9z409XmckTAO2Pnc=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		7N3w1wA+g4EagI0UOBjk31EXPBc=
+>>>>>>> main
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -59,10 +63,14 @@
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		QlgqZulxivRCMmspqX5hAhpBc/A=
 =======
 		iHUdxPNAGivJq1VQta2c3wH6fFo=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		rY0hlrqaVpxBHbxp27jkw/ihQwc=
+>>>>>>> main
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -74,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		1Vf1l6WdeU5sybtapX6nXaiNLpQ=
+		fHdQklScW/tDQCGcWQgcrt9/jcY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -87,10 +95,14 @@
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		2nfgk0jBOs7iymIG8F0xy0jGX3o=
 =======
 		gm+5vjl9islEcMwBz0WUA5BrUvU=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		m5zppgOQ+NO3NKt9U2f/qjDk2mA=
+>>>>>>> main
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -119,10 +131,14 @@
 		<key>Frameworks/AppAuth.framework/AppAuth</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		OQnytAsSdQbsaZgAXqudeKp94VE=
 =======
 		njzWuyIQuphiwCpvbZl01Shad3g=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		mZ3d1LZVHpIJ4vjjW4dL2oe+lAQ=
+>>>>>>> main
 		</data>
 		<key>Frameworks/AppAuth.framework/Info.plist</key>
 		<data>
@@ -135,10 +151,14 @@
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		K+c+bYbpTZEROFKKXThlQYxbog4=
 =======
 		Jr2fHI80Fnd5KdTyu81iQt1VrLw=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		MUuE4eSkI3L0T2jDRiMopS5gk9s=
+>>>>>>> main
 		</data>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<data>
@@ -151,10 +171,14 @@
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		giffIhahmoR/reF+qyVVC9kt1Fs=
 =======
 		oX0soF43cG2NnJN4JuaPpFlBWRs=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		UoUe3h7LSeCDBkULbWj4YRY1LFY=
+>>>>>>> main
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -167,10 +191,14 @@
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		VpzCuslcr/vjGg1XvMmt+OHz7s4=
 =======
 		xc4/FSuqxaCcUKlYDkGZt/I9oPg=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		WYjhbGghUgUkmjjC6UuHzc0aWJI=
+>>>>>>> main
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -183,10 +211,14 @@
 		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		VPwTzDumzoHHH++hOz40UZt5PMI=
 =======
 		4KARcLII7/bcPbe69zZ7Ieeh9l8=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		x0/+SloKN5/QoC8tjuJHih+PPG8=
+>>>>>>> main
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
 		<data>
@@ -195,6 +227,18 @@
 		<key>Frameworks/FirebaseCoreInternal.framework/_CodeSignature/CodeResources</key>
 		<data>
 		tADh5/szeNxM8rwL10mCEopvwQA=
+		</data>
+		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
+		<data>
+		PpXXXOVGX8W74sNZPJiFDCU9MTk=
+		</data>
+		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
+		<data>
+		PyDDGD9bZWMYphfuS/dS8JQPv2c=
+		</data>
+		<key>Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Q72Z6C5pFcoyycuvRUwkLRGalbg=
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
@@ -283,10 +327,14 @@
 		<key>Frameworks/GTMAppAuth.framework/GTMAppAuth</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		qScRiXc+flbea8soQjZuZ1L6Kx8=
 =======
 		MUlbZThC70OqrM052VO49+5sC0c=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		SvgnvTb3/k64LXQyhaeZo4GJwpE=
+>>>>>>> main
 		</data>
 		<key>Frameworks/GTMAppAuth.framework/Info.plist</key>
 		<data>
@@ -299,10 +347,14 @@
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		2dd45/Ix5eCNffh9K/7QzDnUTUk=
 =======
 		4Ltn+DEAqqKizlv81JBwX4vkYrk=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		UG4NUqJdAtFmCccd5wKzEFXP68U=
+>>>>>>> main
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -315,10 +367,14 @@
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		AXRYQsaQh9nKprr4R+FDN/U6oJk=
 =======
 		o+1lPLN5/9okeH/iEA7NJoJwyXU=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		01P2YZrd4i3HAriMG6sVcZvqwqc=
+>>>>>>> main
 		</data>
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn.bundle/Info.plist</key>
 		<data>
@@ -693,10 +749,14 @@
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		aN6xe229uvDtXbi4hkCwGPecKQ0=
 =======
 		6mJX19CvrxH6qpkg21jBDRaBIB0=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		WG8L1wsz7Y4KxJ1AeaqyIc/Wgl4=
+>>>>>>> main
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<data>
@@ -705,6 +765,86 @@
 		<key>Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources</key>
 		<data>
 		dBalG99/mmg5Q9JVenawKS59TC0=
+		</data>
+		<key>Frameworks/absl.framework/Info.plist</key>
+		<data>
+		JC+7JhSBwurcdky9c1d+/JK86aY=
+		</data>
+		<key>Frameworks/absl.framework/_CodeSignature/CodeResources</key>
+		<data>
+		NDL3ds0YUzN/3V0HJiaPIowe1I0=
+		</data>
+		<key>Frameworks/absl.framework/absl</key>
+		<data>
+		ZTUkmc7u1PPMhkfq8dRzJU+8oR4=
+		</data>
+		<key>Frameworks/grpc.framework/Info.plist</key>
+		<data>
+		Lf4xL2CDm4a0aYJXPnAXHqoJUGA=
+		</data>
+		<key>Frameworks/grpc.framework/_CodeSignature/CodeResources</key>
+		<data>
+		WEMvF/jqzMlYajiuTk7/9FohJXM=
+		</data>
+		<key>Frameworks/grpc.framework/grpc</key>
+		<data>
+		g762IeN5d/XA9OunSL/gXdCW5Io=
+		</data>
+		<key>Frameworks/grpcpp.framework/Info.plist</key>
+		<data>
+		fo07RhMqCSEhN4m0wra3fGJW1l8=
+		</data>
+		<key>Frameworks/grpcpp.framework/_CodeSignature/CodeResources</key>
+		<data>
+		5NBqNgwgPn56ZH7JJ0MZsSfR/s4=
+		</data>
+		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist</key>
+		<data>
+		QJF5MTHmASA9l2wHTH15736wWkA=
+		</data>
+		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem</key>
+		<data>
+		fKPpDnXJArmBT4pB8zmpeWVIzCc=
+		</data>
+		<key>Frameworks/grpcpp.framework/grpcpp</key>
+		<data>
+		NDb18wRij9OJY9RLco+w/9OexKA=
+		</data>
+		<key>Frameworks/leveldb.framework/Info.plist</key>
+		<data>
+		f+SmT8+GfDxxtOAAH/+sP85VeJw=
+		</data>
+		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ZVpP9AtFuVd68ehBsZjvCMR8Gag=
+		</data>
+		<key>Frameworks/leveldb.framework/leveldb</key>
+		<data>
+		uCXA0tKsPjT1JuXVd44C2/ixFo8=
+		</data>
+		<key>Frameworks/nanopb.framework/Info.plist</key>
+		<data>
+		w7e/8nmBMYlLEKXo/0plB+V9Rvg=
+		</data>
+		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
+		<data>
+		TGpbWMOGGoWMFkCH25dawg0ueJ4=
+		</data>
+		<key>Frameworks/nanopb.framework/nanopb</key>
+		<data>
+		FwLgu9oyyPsrLba0PXTiaV8hqxM=
+		</data>
+		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
+		<data>
+		jBklSznsH+Hz2BKzBH6TBSa7kMM=
+		</data>
+		<key>Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Gt2sOIUkcKzYcnTw+JP+DRz887w=
+		</data>
+		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
+		<data>
+		Dud7zIPfA/1IhDQmky6kkgzY7bI=
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
 		<data>
@@ -716,7 +856,7 @@
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
 		<data>
-		PdeujgdCTAJTvSfDEk62LobkmJM=
+		59JdE6OigXBuPlJm6/u+jY7/uSg=
 		</data>
 		<key>Frameworks/sign_in_with_apple.framework/Info.plist</key>
 		<data>
@@ -729,10 +869,26 @@
 		<key>Frameworks/sign_in_with_apple.framework/sign_in_with_apple</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		n62GrmSDEshd+CjkG7c8dDFFeV0=
 =======
 		+l0DPFAiXmPiJjQnnCCN2GDL1ik=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+		+l0DPFAiXmPiJjQnnCCN2GDL1ik=
+		</data>
+		<key>Frameworks/uv.framework/Info.plist</key>
+		<data>
+		P29vgNNiixXaf50K+d0EFxrZz3E=
+		</data>
+		<key>Frameworks/uv.framework/_CodeSignature/CodeResources</key>
+		<data>
+		9yXx9JMqnipIxFujWj/4myibzYk=
+		</data>
+		<key>Frameworks/uv.framework/uv</key>
+		<data>
+		nHKC4JZtEuH169leuZ3oosmaWWc=
+>>>>>>> main
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -824,10 +980,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			SWlvTPYC39ec1nXxZhusZZ31+K1A40OEEAyaWEl5Q/4=
 =======
 			OFJukS9Pw6LP0n+r5/30T4v5wYxmpjp/oI1Nw/rtY6s=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			NyMeXmLGpPQ/yE6v1OzXBfpB/XDEtgOWIUw7Xxok+mU=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -842,10 +1002,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			RXzUdA0kjJvHzwBffG3zt0lik6BOJL2pWj4mB3v0xrQ=
 =======
 			dXgh5uhS0wCRp74EL5NvurNA32zw8YfHS7t+HSiyqJA=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			f0WdhRv2ivb+wTvliNW7JyuumdE+XgM8C4fJIARnRYU=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -866,7 +1030,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/RS+w9UT93/NN2po1yfBg17kud4fM1Juy1Ty5qcN+Q=
+			SLr92PCTGFJbsaGl4vAHIu+9KqHk1urStWTgvfEJIUs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -888,10 +1052,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			TIaShrnAIaz8gd6LyIpqa902TWRPrP5OgjtwyXkU2oU=
 =======
 			uXMAYfmB3sW22INv83ZyRdXhO8eVZTeVIt2LWtxTLmQ=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			hDiGUGwTDX9bq4gx2tQWOXnxZD8WcmNt8FZtQDw1oHA=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -941,10 +1109,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Zo7cCTjWRMhwUFmcPeRdQncNtmZyTPnlTDP9terEfrk=
 =======
 			5PeYFH+BntemtbIKjY/prGuV8Etr1otHX1OBl/6JcwU=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			X+Hgb1S/+BqiewTCJxmnpyIpNyVcxazt8aWEp077Gtk=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/AppAuth.framework/Info.plist</key>
@@ -966,10 +1138,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			ylXxtx6DC1pCql3qwTpTK2KXFR5SQa+sJzltbLAi17M=
 =======
 			xB9CX0ghVAuUrprhhmTgqA7vP6JdHqzNcGsIr/70o/w=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			53tAI9ALmmr0EFcglG/QKUuor0WsSquzV6vCn081kEI=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
@@ -991,10 +1167,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			hwpNb5JDoFS7Fdggxm5SuMwr69eSJBudjpte/MSEsl4=
 =======
 			hkvczlqAVxgWtjKeyBoXFMxwuhDQKSyRCuZ4wdbb3lk=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			5hK9digzjlboUFYIGd8qU+c/O65VD0rcxJRnGZjSono=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -1016,10 +1196,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			dRt/BflLnG7k4WRCT/NisPqbZaBzCx2+BARcfCP8NPE=
 =======
 			C/MxnT5x1Jb3zICwzvV/K7UHRUs8sAVmy+DsJ29UHws=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			8rRvJcts/s+zJWo5FAOFYyqQmegVXKotw+NZr6kP4ZE=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -1041,10 +1225,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			4VUJPOAX5sM4GU/r7fKy+6ODXmiOd1Bw7CCklZ20Msc=
 =======
 			tCBsML7Kcirr9dRxURtwHRlUPB4j6aQ52IhfYBLVFQE=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			gwH1ug4lHfiBU9Jq5tAf5DtptWyS/lUapbEud1+rdtk=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
@@ -1059,6 +1247,27 @@
 			<key>hash2</key>
 			<data>
 			SNu2tf75+Ji5PS0rCgNt1RAvusfUvi1wJGX9pazKmhQ=
+			</data>
+		</dict>
+		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MragnUpHORcFqvqpJg8n5M3Tm7RerwrzB+fYoaatd3Y=
+			</data>
+		</dict>
+		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dAAVGLRvbskKvk7h3+uK17rb+pn8vmmdcSCr5i7xVFY=
+			</data>
+		</dict>
+		<key>Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0sGYukBpZlOrqIbn9lnX/qaSWDiRHbgc7Tfw+zHD1Hg=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Flutter</key>
@@ -1213,10 +1422,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			85w0924dILmhyrazMq7/MGn4xcQrfoBssCqdMKhL8sg=
 =======
 			cwD4mLh+OriABuEidlbYWOTrYNDGCqmSEmPPoV8KXiQ=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			Isb4ZpdcnIO0/zJAaWIxfs0XeslM5a2KbcUbhxrSxKs=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/GTMAppAuth.framework/Info.plist</key>
@@ -1238,10 +1451,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			x0JVcO7e7PtfVLuIdEwlyDHooyR+CBCV9SOZKd5K1MM=
 =======
 			+qaISDLKHw77vuyDvw0dY5W6+NWZNttKIsyd9TfOGNY=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			QUE7PMwHi4OPIdfNJmAwK6Xy7HX07oQ2ikUSuFiYIdA=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -1263,10 +1480,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			DhgZOYyzuT1xlax+aKyektDpbdipTDMVLbv/3WyNC1s=
 =======
 			ZrzRNQUbOvKqhBG7tnU0QkUPPHesORKZrRQcYH4j15c=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			uLQeJ61gC9H0if5pIOlmZoRJk2MCbVMymaVEXIzJKhg=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn.bundle/Info.plist</key>
@@ -1665,10 +1886,14 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			bMka/2u5pY8KmU/wm3HCC8J2x45p7ZTUqixpu9yYciE=
 =======
 			uysAc0Dqjd0XK7nI9f3Ynok5hcdhT6O7v+BLEAYdkCA=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			1tG9pNUMXvX+6VGMk9jpYbzKmmjXmXu6xhcJmAGzS8Q=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
@@ -1683,6 +1908,146 @@
 			<key>hash2</key>
 			<data>
 			jXm7vxt8zwDp4DfBSwKfherELqQ6x0tpbNQ5FzH4g5Y=
+			</data>
+		</dict>
+		<key>Frameworks/absl.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MeBJM315ntcqbH9bJ8fDOyzbN6FRmy+HkvIcqnlvT1Q=
+			</data>
+		</dict>
+		<key>Frameworks/absl.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J5fRktIEg4NXcyZ0X+o2hb7KT4GaXoCkxQ/INuwoEAY=
+			</data>
+		</dict>
+		<key>Frameworks/absl.framework/absl</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fKKX7Un6teeVuHQWX4nPzZRm+S4jXiuDPgMHvNJVM6Y=
+			</data>
+		</dict>
+		<key>Frameworks/grpc.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			the6MZEcp/tMo6veM1g0oUrllhABoEjEFZ5ixqmtC5w=
+			</data>
+		</dict>
+		<key>Frameworks/grpc.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uymF73rVaS+6RPcGYsShNpdOWqjw6qD7K8V3Kd7ZNWM=
+			</data>
+		</dict>
+		<key>Frameworks/grpc.framework/grpc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R+CsPhQYSpYTWqQB+REjYd6NxJNhpJw5vPQ5bQ+9WIc=
+			</data>
+		</dict>
+		<key>Frameworks/grpcpp.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OdxGKVfBFSL8mi9t7JYeKXQjISi8H623NPu9uPWAPuQ=
+			</data>
+		</dict>
+		<key>Frameworks/grpcpp.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KtdlJ3se1GbC0S5UwHAL3KBVZ8HbTe+6ZZ/HZmR/U9U=
+			</data>
+		</dict>
+		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JDqTlHbKXZn6ySDRC/W1L4QOTNB5NZi6LkBcgnK/wXc=
+			</data>
+		</dict>
+		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lhQzRMSuEJWIElssQdXa9lSl+vxuI/rDf3uj0p2n53Y=
+			</data>
+		</dict>
+		<key>Frameworks/grpcpp.framework/grpcpp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bFb5omNIHXaajfVhtRi1zedXXIJthc4u2j3BpS8RZ5Q=
+			</data>
+		</dict>
+		<key>Frameworks/leveldb.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rblvrvZZLKqDurvEKFNxcSjyMtcLT21OCZoxRUJNtfM=
+			</data>
+		</dict>
+		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			onWB+kobFFzjLGOh8RPVlIIxVLvzsLcZSLhXW5K72a4=
+			</data>
+		</dict>
+		<key>Frameworks/leveldb.framework/leveldb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			izRH9U4zXCJaLjpIiDpQxkPY0zMsZXpNRYXrw/jFVPM=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iyhFDaiXaToGPdMLnOXzdXjFS5fRiXm11qMJCZjwfbE=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AA2SjPk8xlKn1sHWq5M+EPv6DxrsC7kSgzYLgr9jyzs=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/nanopb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G5ihxsiDnlXiBxMIGJ6s/VT5Brupx3kHoWtCutyRX5c=
+			</data>
+		</dict>
+		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KOfJQSb8aiM/nrRX+4uz1abx0g/jg6EeQfgp2mO4t7Q=
+			</data>
+		</dict>
+		<key>Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			14xQp4S7tQV1GB0mBnDyjfgNwg+YISfnMIp8Q43fm1U=
+			</data>
+		</dict>
+		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hHMVli5usAo9Du1h+bniX2/XS1P2CoH2TVb8wo/+kjA=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
@@ -1703,7 +2068,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t0Q7QtnQjroeHwsQWb19vy/z57mTAajcrSKlMFAAqGQ=
+			XhP4zcbc36fugcXOhoPZrnqzIiH1utlQ6gqMOZl6X/E=
 			</data>
 		</dict>
 		<key>Frameworks/sign_in_with_apple.framework/Info.plist</key>
@@ -1725,10 +2090,35 @@
 			<key>hash2</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			YXB/DF6HniY3NUZQM6x5HDOo0wKcNILiBoxJtPKoM8A=
 =======
 			pnpYzJBvll8tXsa6QYrURFrDi1ZXqqMUw+DO9GO/tOI=
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+			pnpYzJBvll8tXsa6QYrURFrDi1ZXqqMUw+DO9GO/tOI=
+			</data>
+		</dict>
+		<key>Frameworks/uv.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S2WeOgLrscUbsx0mrJIl26jOVhgNRfEbVhM53C+Losw=
+			</data>
+		</dict>
+		<key>Frameworks/uv.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			an/vKyPQWuBInGrOsLcvvZV8wnP2XqskNeu7vspztXI=
+			</data>
+		</dict>
+		<key>Frameworks/uv.framework/uv</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aiMWsJHvvGocQN82ZCvx+NX/gfPJO/3BxPoP4OEDOos=
+>>>>>>> main
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>

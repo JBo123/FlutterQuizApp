@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:firebase_flutter_app/services/auth.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
@@ -7,9 +9,12 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
 <<<<<<< HEAD
+<<<<<<< HEAD
       appBar: AppBar(
         title: Text('login'),
 =======
+=======
+>>>>>>> main
       body: Container(
         padding: const EdgeInsets.all(30),
         child: Column(
@@ -26,6 +31,17 @@ class LoginScreen extends StatelessWidget {
                 loginMethod: AuthService().annLogin,
                 color: Colors.deepPurple,
               ),
+<<<<<<< HEAD
+=======
+            ),
+            Flexible(
+              child: LoginButton(
+                icon: FontAwesomeIcons.userNinja,
+                text: 'Sign in via Google',
+                loginMethod: AuthService().googleLogin,
+                color: Colors.amber,
+              ),
+>>>>>>> main
             )
           ],
         ),
@@ -63,7 +79,10 @@ class LoginButton extends StatelessWidget {
         ),
         onPressed: () => loginMethod(),
         label: Text(text, textAlign: TextAlign.center),
+<<<<<<< HEAD
 >>>>>>> parent of f802385... added google sign-in wich doesent work
+=======
+>>>>>>> main
       ),
     );
   }
