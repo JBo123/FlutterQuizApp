@@ -18,11 +18,19 @@
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
+<<<<<<< HEAD
 		gtsz/pSkgf0m1ttGwFiN0oaVUEI=
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
 		DEtXJgfEO5AqL6hBIlt+ERJuugg=
+=======
+		FQqIic4HVsfQbuxIpX0iDzdimsA=
+		</data>
+		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		hpfOHdxr4467Ne3OLegm4uQDpg4=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -81,22 +89,38 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			gtsz/pSkgf0m1ttGwFiN0oaVUEI=
 			</data>
 			<key>hash2</key>
 			<data>
 			A6Z852oWjhLTCu5jm3e/gS2Xj9HpjiEPYqNbAVhVJA0=
+=======
+			FQqIic4HVsfQbuxIpX0iDzdimsA=
+			</data>
+			<key>hash2</key>
+			<data>
+			HPAfz5kFY9rrMk95AcIkiL2jZAN8hWTUrgs41AcLyQ4=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			DEtXJgfEO5AqL6hBIlt+ERJuugg=
 			</data>
 			<key>hash2</key>
 			<data>
 			eQ4xOU1zbTRXYXf7CLOgkRjj9VcH2qdL27fT0lXedpw=
+=======
+			hpfOHdxr4467Ne3OLegm4uQDpg4=
+			</data>
+			<key>hash2</key>
+			<data>
+			P58lL8cyLv3kQ+lEp9X+gOdlegw/5WjKmEXroXwKYVw=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

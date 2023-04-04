@@ -46,7 +46,11 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
+<<<<<<< HEAD
 		0/Hg8YqtDgSaCyuZZtL2PSjoVNY=
+=======
+		mMjQJFVN5CV9z409XmckTAO2Pnc=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +58,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
+<<<<<<< HEAD
 		QlgqZulxivRCMmspqX5hAhpBc/A=
+=======
+		iHUdxPNAGivJq1VQta2c3wH6fFo=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -78,7 +86,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
+<<<<<<< HEAD
 		2nfgk0jBOs7iymIG8F0xy0jGX3o=
+=======
+		gm+5vjl9islEcMwBz0WUA5BrUvU=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -106,7 +118,11 @@
 		</data>
 		<key>Frameworks/AppAuth.framework/AppAuth</key>
 		<data>
+<<<<<<< HEAD
 		OQnytAsSdQbsaZgAXqudeKp94VE=
+=======
+		njzWuyIQuphiwCpvbZl01Shad3g=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/AppAuth.framework/Info.plist</key>
 		<data>
@@ -118,7 +134,11 @@
 		</data>
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<data>
+<<<<<<< HEAD
 		K+c+bYbpTZEROFKKXThlQYxbog4=
+=======
+		Jr2fHI80Fnd5KdTyu81iQt1VrLw=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<data>
@@ -130,7 +150,11 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
+<<<<<<< HEAD
 		giffIhahmoR/reF+qyVVC9kt1Fs=
+=======
+		oX0soF43cG2NnJN4JuaPpFlBWRs=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -142,7 +166,11 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
+<<<<<<< HEAD
 		VpzCuslcr/vjGg1XvMmt+OHz7s4=
+=======
+		xc4/FSuqxaCcUKlYDkGZt/I9oPg=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -154,7 +182,11 @@
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal</key>
 		<data>
+<<<<<<< HEAD
 		VPwTzDumzoHHH++hOz40UZt5PMI=
+=======
+		4KARcLII7/bcPbe69zZ7Ieeh9l8=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
 		<data>
@@ -250,7 +282,11 @@
 		</data>
 		<key>Frameworks/GTMAppAuth.framework/GTMAppAuth</key>
 		<data>
+<<<<<<< HEAD
 		qScRiXc+flbea8soQjZuZ1L6Kx8=
+=======
+		MUlbZThC70OqrM052VO49+5sC0c=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/GTMAppAuth.framework/Info.plist</key>
 		<data>
@@ -262,7 +298,11 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
+<<<<<<< HEAD
 		2dd45/Ix5eCNffh9K/7QzDnUTUk=
+=======
+		4Ltn+DEAqqKizlv81JBwX4vkYrk=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -274,7 +314,11 @@
 		</data>
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn</key>
 		<data>
+<<<<<<< HEAD
 		AXRYQsaQh9nKprr4R+FDN/U6oJk=
+=======
+		o+1lPLN5/9okeH/iEA7NJoJwyXU=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn.bundle/Info.plist</key>
 		<data>
@@ -648,7 +692,11 @@
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<data>
+<<<<<<< HEAD
 		aN6xe229uvDtXbi4hkCwGPecKQ0=
+=======
+		6mJX19CvrxH6qpkg21jBDRaBIB0=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<data>
@@ -680,7 +728,11 @@
 		</data>
 		<key>Frameworks/sign_in_with_apple.framework/sign_in_with_apple</key>
 		<data>
+<<<<<<< HEAD
 		n62GrmSDEshd+CjkG7c8dDFFeV0=
+=======
+		+l0DPFAiXmPiJjQnnCCN2GDL1ik=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -688,7 +740,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MH5AaL3Wiw54SJ5P26v9hqGJpFE=
+		aAYAbn74HvkqbwXeA7E1rp7VuN4=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -771,7 +823,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			SWlvTPYC39ec1nXxZhusZZ31+K1A40OEEAyaWEl5Q/4=
+=======
+			OFJukS9Pw6LP0n+r5/30T4v5wYxmpjp/oI1Nw/rtY6s=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -785,7 +841,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			RXzUdA0kjJvHzwBffG3zt0lik6BOJL2pWj4mB3v0xrQ=
+=======
+			dXgh5uhS0wCRp74EL5NvurNA32zw8YfHS7t+HSiyqJA=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -827,7 +887,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			TIaShrnAIaz8gd6LyIpqa902TWRPrP5OgjtwyXkU2oU=
+=======
+			uXMAYfmB3sW22INv83ZyRdXhO8eVZTeVIt2LWtxTLmQ=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -876,7 +940,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			Zo7cCTjWRMhwUFmcPeRdQncNtmZyTPnlTDP9terEfrk=
+=======
+			5PeYFH+BntemtbIKjY/prGuV8Etr1otHX1OBl/6JcwU=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/AppAuth.framework/Info.plist</key>
@@ -897,7 +965,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			ylXxtx6DC1pCql3qwTpTK2KXFR5SQa+sJzltbLAi17M=
+=======
+			xB9CX0ghVAuUrprhhmTgqA7vP6JdHqzNcGsIr/70o/w=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
@@ -918,7 +990,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			hwpNb5JDoFS7Fdggxm5SuMwr69eSJBudjpte/MSEsl4=
+=======
+			hkvczlqAVxgWtjKeyBoXFMxwuhDQKSyRCuZ4wdbb3lk=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -939,7 +1015,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			dRt/BflLnG7k4WRCT/NisPqbZaBzCx2+BARcfCP8NPE=
+=======
+			C/MxnT5x1Jb3zICwzvV/K7UHRUs8sAVmy+DsJ29UHws=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -960,7 +1040,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			4VUJPOAX5sM4GU/r7fKy+6ODXmiOd1Bw7CCklZ20Msc=
+=======
+			tCBsML7Kcirr9dRxURtwHRlUPB4j6aQ52IhfYBLVFQE=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
@@ -1128,7 +1212,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			85w0924dILmhyrazMq7/MGn4xcQrfoBssCqdMKhL8sg=
+=======
+			cwD4mLh+OriABuEidlbYWOTrYNDGCqmSEmPPoV8KXiQ=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/GTMAppAuth.framework/Info.plist</key>
@@ -1149,7 +1237,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			x0JVcO7e7PtfVLuIdEwlyDHooyR+CBCV9SOZKd5K1MM=
+=======
+			+qaISDLKHw77vuyDvw0dY5W6+NWZNttKIsyd9TfOGNY=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -1170,7 +1262,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			DhgZOYyzuT1xlax+aKyektDpbdipTDMVLbv/3WyNC1s=
+=======
+			ZrzRNQUbOvKqhBG7tnU0QkUPPHesORKZrRQcYH4j15c=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/GoogleSignIn.framework/GoogleSignIn.bundle/Info.plist</key>
@@ -1568,7 +1664,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			bMka/2u5pY8KmU/wm3HCC8J2x45p7ZTUqixpu9yYciE=
+=======
+			uysAc0Dqjd0XK7nI9f3Ynok5hcdhT6O7v+BLEAYdkCA=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
@@ -1624,7 +1724,11 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			YXB/DF6HniY3NUZQM6x5HDOo0wKcNILiBoxJtPKoM8A=
+=======
+			pnpYzJBvll8tXsa6QYrURFrDi1ZXqqMUw+DO9GO/tOI=
+>>>>>>> parent of f802385... added google sign-in wich doesent work
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
