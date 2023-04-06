@@ -4,11 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 class AuthService {
   final userStream = FirebaseAuth.instance.authStateChanges();
   final user = FirebaseAuth.instance.currentUser;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> main
+
   Future<void> annLogin() async {
     try {
       await FirebaseAuth.instance.signInAnonymously();
@@ -18,9 +14,6 @@ class AuthService {
   Future<void> signOut() async {
     await FirebaseAuth.instance.signOut();
   }
-<<<<<<< HEAD
->>>>>>> parent of f802385... added google sign-in wich doesent work
-=======
 
   Future<void> googleLogin() async {
     try {
@@ -39,5 +32,4 @@ class AuthService {
       // handle error
     }
   }
->>>>>>> main
 }

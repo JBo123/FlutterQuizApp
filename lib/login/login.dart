@@ -8,13 +8,7 @@ class LoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-<<<<<<< HEAD
-<<<<<<< HEAD
-      appBar: AppBar(
-        title: Text('login'),
-=======
-=======
->>>>>>> main
+      appBar: AppBar(title: Text('login')),
       body: Container(
         padding: const EdgeInsets.all(30),
         child: Column(
@@ -31,8 +25,6 @@ class LoginScreen extends StatelessWidget {
                 loginMethod: AuthService().annLogin,
                 color: Colors.deepPurple,
               ),
-<<<<<<< HEAD
-=======
             ),
             Flexible(
               child: LoginButton(
@@ -41,7 +33,6 @@ class LoginScreen extends StatelessWidget {
                 loginMethod: AuthService().googleLogin,
                 color: Colors.amber,
               ),
->>>>>>> main
             )
           ],
         ),
@@ -79,10 +70,6 @@ class LoginButton extends StatelessWidget {
         ),
         onPressed: () => loginMethod(),
         label: Text(text, textAlign: TextAlign.center),
-<<<<<<< HEAD
->>>>>>> parent of f802385... added google sign-in wich doesent work
-=======
->>>>>>> main
       ),
     );
   }
